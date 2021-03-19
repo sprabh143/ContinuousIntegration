@@ -3,7 +3,15 @@ JSNodeJs
 
 This SMS app will help a hardware store business take orders via sms from customers for curbside pickup during the pandemic.
 
-To run:
+To run on Heroku link:
+
+1. Type any greeting in the sms interface.
+2. Click the link given to get the price list.
+3. Answer the questions given one by one to order things.
+4. Wrap your order and get total after taxes.
+
+
+To run on local environment (for developers):
 
 1. Sign up for paypal developer sandbox and get a client id
 2. The first time run npm install
