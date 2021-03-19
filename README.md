@@ -1,6 +1,10 @@
 # ContinuousIntegration
-JSNodeJs
+Prabh Singh
+8653380
+Section 1
+Project Development
 
+Project Description:
 This SMS app will help a hardware store business take orders via sms from customers for curbside pickup during the pandemic.
 
 To run on Heroku link:
